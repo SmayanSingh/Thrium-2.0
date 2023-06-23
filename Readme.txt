@@ -1,4 +1,4 @@
-# Startup Website
+# Thrium Website
 
 Welcome to the repository for our startup website project! This project is built using HTML, CSS, and JavaScript, and it serves as the main website for our startup.
 
@@ -23,9 +23,9 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/startup-website.git
+git clone https://github.com/smayansnc/thrium-2.0.git
 
-csharp
+c#
 Copy code
 
 2. Navigate into the project directory:
@@ -59,9 +59,10 @@ We welcome contributions to improve our startup website project! If you'd like t
 5. Submit a pull request detailing your changes.
 
 ## License
-
+'
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
+And if you've not made many changes to it don't mind giving credit :)
 
 ---
 
-We hope you find this README file useful! If you have any questions or need fur
+We hope you find this README file useful! If you have any questions or need further queries use the contact page of the website and you can reach out to us.
